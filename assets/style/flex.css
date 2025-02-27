@@ -17,6 +17,12 @@
     .menu {
         column-gap: 75px;
     }
+
+    .categorias__lista {
+        flex-wrap: wrap;
+        column-gap: 1.5rem;
+        row-gap: 1rem;
+    }
 }
 
 @media (min-width: 1440px) {
